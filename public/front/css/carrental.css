@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900');
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif !important;
+	margin-top: 50px;
+}
+#ct_step1 button {
+    width: 100% !important;
+}
+#ct_step1 {
+    max-width: 1400px;
+    height: auto;
+    margin: 0 auto;
+     background: rgba(255, 211, 6, 0.91);
+    padding: 35px 35px;
+    border: 5px solid #e4bd00;
+    width: 50% !important;
+    position: relative;
+}
+
+#ct_step2 section#ct_s2_body_panel div.ct-car .ct-list-shrinker ul {
+    text-align: left;
+}
+#ct_step2 section#ct_s2_body_panel div.ct-car .ct-list-shrinker li {
+    line-height: 1.6em;
+}
+#ct_step2 section#ct_s2_body_panel div.ct-car h5 span {
+    text-align: left;
+}
+#ct_step2 section#ct_s2_body_panel div.ct-car div.ct-car-name h6 {
+    text-align: left;
+        padding: 10px 0 !important;
+}
+.ct-ui-base h2 {
+    font-size: 21px !important;
+}
+#ct_step2 section#ct_s2_body_panel div.ct-car small {
+    font-size: 17px !important;
+    padding: 7px 0 !important;
+}
+#ct_step1 form#ct_s1_frm_search .ct-grid .ct-grid {
+    text-align: center;
+}
+#ct_step2 section#ct_s2_body_panel ul.ct-multi-car li, #ct_step2 section#ct_s2_body_panel div.ct-multi-car li {
+    margin-left: -1px !important;
+}
+.ct-hybrid-grid .ct-grid .ct-grid-unit-7-14 {
+    float: right;
+}
+.ct-hybrid-grid .ct-grid .ct-grid-row {
+    padding-bottom: 6px;
+}
+.ct-btn-s {
+    background: #333333 !important;
+    color: #ffd300 !important;
+     border: 1px solid #fff !important;
+}
+.ct-form-field .ct-input.ct-error {
+    padding: 13px 15px !important;
+    font-size: 15px !important;
+    color: #a0a0a0 !important;
+    border: 1px solid #d2ae00 !important;
+    transition-duration: .5s;}
+    .ct-palette-s-color {
+    color: #333!important;
+}
+.ct-btn span {
+    padding: 6px 19px !important;
+}
+.ct-btn.ct-icon-right span {
+    padding-right: 32px !important;
+}
